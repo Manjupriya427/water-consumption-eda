@@ -44,7 +44,3 @@ Analysis Performed
 - Monthly consumption trend
 - Seasonal consumption analysis
 - Weekly consumption trend
-
-Project Type
-
-Academic EDA Project – Units 4 and 5.
